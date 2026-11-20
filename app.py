@@ -5,7 +5,7 @@ st.set_page_config(page_title="SIET_Chatbot", layout="centered")
 
 st.title("Shridevi Institute of Engineering and Technology - Chatbot")
 st.caption("Ask anything about the college information...")
-st.caption("Created by J RISHAB BHARATHI")
+st.caption("Created by HEMARAJ DM")
 
 mykey = st.secrets["GROQ_API_KEY"]
 
